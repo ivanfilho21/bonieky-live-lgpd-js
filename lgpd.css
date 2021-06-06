@@ -1,0 +1,27 @@
+.lgpd {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    position: fixed;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    padding: 20px;
+    background-color: #5180E0;
+    color: white;
+}
+
+.lgpd a {
+    color: white;
+}
+
+.lgpd button {
+    padding: 10px 30px;
+    font-weight: bold;
+    background-color: #04A600;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
